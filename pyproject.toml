@@ -6,9 +6,6 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "ipykernel>=6.29.5",
-    "onnx>=1.18.0",
-    "onnxruntime-gpu>=1.22.0",
-    "onnxslim>=0.1.53",
-    "seaborn>=0.13.2",
+    "opencv-python>=4.11.0.86",
     "ultralytics>=8.3.139",
 ]
